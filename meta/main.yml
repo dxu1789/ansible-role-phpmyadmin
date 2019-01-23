@@ -1,9 +1,9 @@
 ---
 dependencies:
-  - geerlingguy.apache
-  - geerlingguy.mysql
-  - geerlingguy.php-mysql
-  - geerlingguy.php
+#  - geerlingguy.apache
+#  - geerlingguy.mysql
+#  - geerlingguy.php-mysql
+#  - geerlingguy.php
 
 galaxy_info:
   author: geerlingguy
